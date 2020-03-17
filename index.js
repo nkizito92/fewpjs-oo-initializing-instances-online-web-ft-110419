@@ -1,8 +1,8 @@
 // Write your code here
 class Breakfast {
   constructor (eggs, juice ) {
-    this.eggs = eggs
-    this.juice = juice
+    this.eggs = eggs;
+    this.juice = juice;
   }
   
 }
