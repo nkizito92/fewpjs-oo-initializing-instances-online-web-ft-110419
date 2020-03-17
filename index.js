@@ -1,4 +1,4 @@
 // Write your code here
-class BreakFast {
+class Breakfast {
   constructor () {}
 }
