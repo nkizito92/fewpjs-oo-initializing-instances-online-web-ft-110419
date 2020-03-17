@@ -1,4 +1,5 @@
 // Write your code here
 class Breakfast {
-  constructor (eggs, ) {}
+  constructor (eggs, juice ) {}
+  
 }
