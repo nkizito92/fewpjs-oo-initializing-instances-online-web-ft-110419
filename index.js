@@ -7,4 +7,6 @@ class Breakfast {
   
 }
 
-c
+class Lunch {
+  constructor(){}
+}
